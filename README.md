@@ -9,7 +9,7 @@
 
 <hr/>
 <h4 align="center">
-Hi I am a passionate Software Developer 🙏 with a demonstrated history of working in the information technology and services industry.<br/>
+Hi I am a passionate Software Developer 👩‍💻 with a demonstrated history of working in the information technology and services industry.<br/>
 I have skilled in PHP MVC, Laravel, CodeIgniter, JavaScript, AJAX, JQuery, Database, Web Design and Full-Stack Development.<br>
 I am very fond of to contribute in open-source, coding, and learning new web technologies❤️.
 </h4>
@@ -22,7 +22,7 @@ I am very fond of to contribute in open-source, coding, and learning new web tec
     <a href="https://github.com/Bhavik-7" style="text-decoration:none;">
         <img height="180em" width="auto" src="https://streak-stats.demolab.com?user=Bhavik-7&theme=algolia&hide_border=true&border_radius=2"/>
         <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=Bhavik-7&show_icons=true&count_private=true&hide_border=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavik-7&hide_border=true&layout=compact&theme=algolia"/>
+        <!-- <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavik-7&hide_border=true&layout=compact&theme=algolia"/> -->
     </a>
 </p>
 
