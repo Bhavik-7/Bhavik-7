@@ -1,26 +1,28 @@
-
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h1 align="center">Hi , I am Bhavik Patel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/Bhavik-7">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;PHP%20|%20Laravel%20|%20JavaScript;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;PHP%20|%20Laravel%20|%20JavaScript;Always%20learning%20new%20things&center=true&width=500&height=40"></a>
 </p>
-<hr/>
 
+<hr/>
 <h4 align="center">
-Hi, I am a Software Developer 🙏, passionate about open-source, coding, and web technologies❤️. <br />
-	Besides my job, I like to create and contribute to open-source projects. It helps me learn and grow as a developer while supporting other open-source projects.
+Hi I am a passionate Software Developer 🙏 with a demonstrated history of working in the information technology and services industry.<br/>
+I have skilled in PHP MVC, Laravel, CodeIgniter, JavaScript, AJAX, JQuery, Database, Web Design and Full-Stack Development.<br>
+I am very fond of to contribute in open-source, coding, and learning new web technologies❤️.
 </h4>
 <br>
-<hr/> 
+<hr/>
 
-## 📈 Github Profile Stats
+## 📈 GitHub Profile Stats
 
 <p align="center">
-    <a href="https://github.com/Bhavik-7">
-        <img height="180em" src="https://streak-stats.demolab.com?user=Bhavik-7&theme=tokyonight&hide_border=true&border_radius="/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhavik-7&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavik-7&hide_border=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
+    <a href="https://github.com/Bhavik-7" style="text-decoration:none;">
+        <img height="180em" width="auto" src="https://streak-stats.demolab.com?user=Bhavik-7&theme=algolia&hide_border=true&border_radius=2"/>
+        <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=Bhavik-7&show_icons=true&count_private=true&hide_border=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavik-7&hide_border=true&layout=compact&theme=algolia"/>
     </a>
 </p>
 
@@ -28,32 +30,49 @@ Hi, I am a Software Developer 🙏, passionate about open-source, coding, and we
 <hr/>
 
 ## 🏆 Trophies
-<p align="center"> <a href="https://github.com/Bhavik-7"><img
-      src="https://github-profile-trophy.vercel.app/?username=Bhavik-7&row=1&column=3&theme=algolia" alt="Bhavik-7" /></a>  </p>
+
+<p align="center"> 
+	<a href="https://github.com/Bhavik-7">
+	<img src="https://github-profile-trophy.vercel.app/?username=Bhavik-7&row=1&column=3&theme=algolia" alt="Bhavik-7" />
+	</a>
+</p>
 
 <!-- algolia -->
 <br>
-<hr/>
-
-## ⚡ Recent GitHub Activity
-<a href="https://github.com/Bhavik-7"><img alt="Bhavik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Bhavik-7&custom_title=Bhavik's%20Contribution%20Graph&theme=react-dark" /></a>
-
 
 <hr/>
 
-## 🐍
-  <br>
+## 🗂 Tools & Languages
+<code><img alt="Visual Studio Code" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
+<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img alt="HTML5" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
+<code><img alt="CSS3" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
+<code><img height="35rem" src="https://img.icons8.com/color/2x/bootstrap.png" /></code>
+<code><img height="35rem" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" /></code>
+<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<br/>
+
+<hr/>
+
+## ⚡ Visitor Count
+
+<p align="center"><img src="https://profile-counter.glitch.me/Bhavik-7/count.svg"/></p>
 
 <hr/>
 
 ## 🙋‍♀️ Let's Connect
+
 <p align="center">
 	<a href="mailto:bhavikpatel224@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
 	<a href="https://github.com/Bhavik-7"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/bhavik-patel-1a39b3142"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
-</p>
+</hr>
 
-----
+---
+
 Credit: [Bhavik](https://github.com/Bhavik-7)
 
 Last Edited on: 08 Jan 2025
