@@ -45,7 +45,7 @@ I am very fond of to contribute in open-source, coding, and learning new web tec
 ## 🗂 Tools & Languages
 <code><img alt="Visual Studio Code" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  title='VS Code' alt="VS Code"/></code>
 <code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" title='PHP' alt="PHP"></code>
-<code><img height="35rem" src="https://raw.githubusercontent.com/Bhavik-7/Bhavik-7/refs/heads/development/icons/laravel-logo.svg" title='Laravel' alt="Laravel"></code>
+<code><img height="35rem" src="https://raw.githubusercontent.com/Bhavik-7/Bhavik-7/refs/heads/development/icons/Laravel.svg" title='Laravel' alt="Laravel"></code>
 <code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title='NodeJS' alt="NodeJS" /></code>
 <code><img height="35rem" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" title='ReactJS' alt="ReactJS" /></code>
 <code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title='MySQL' alt="MySQL"></code>
@@ -69,7 +69,7 @@ I am very fond of to contribute in open-source, coding, and learning new web tec
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
-	<a href="mailto:bhavikpatel224@gmail.com"><img height="35px" src="https://raw.githubusercontent.com/Bhavik-7/Bhavik-7/refs/heads/development/icons/gmail.png" title='Gmail' alt="Gmail"/></a>
+	<a href="mailto:bhavikpatel224@gmail.com"><img height="35px" src="https://raw.githubusercontent.com/Bhavik-7/Bhavik-7/refs/heads/development/icons/Gmail.svg" title='Gmail' alt="Gmail"/></a>
 	<a href="https://github.com/Bhavik-7"><img height="35px" src="https://raw.githubusercontent.com/Bhavik-7/Bhavik-7/refs/heads/development/icons/github.png" title='GitHub' alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/bhavik-patel-1a39b3142"><img height="35px" src="https://raw.githubusercontent.com/Bhavik-7/Bhavik-7/refs/heads/development/icons/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
 </hr>
