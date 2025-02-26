@@ -69,7 +69,7 @@ I am very fond of to contribute in open-source, coding, and learning new web tec
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
-	<a href="mailto:bhavikpatel224@gmail.com"><img height="35px" src="https://raw.githubusercontent.com/Bhavik-7/Bhavik-7/refs/heads/development/icons/Gmail.svg" title='Gmail' alt="Gmail"/></a>
+	<a href="mailto:bhavikpatel224@gmail.com"><img height="35px" src="https://raw.githubusercontent.com/Bhavik-7/Bhavik-7/refs/heads/development/icons/gmail.png" title='Gmail' alt="Gmail"/></a>
 	<a href="https://github.com/Bhavik-7"><img height="35px" src="https://raw.githubusercontent.com/Bhavik-7/Bhavik-7/refs/heads/development/icons/github.png" title='GitHub' alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/bhavik-patel-1a39b3142"><img height="35px" src="https://raw.githubusercontent.com/Bhavik-7/Bhavik-7/refs/heads/development/icons/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
 </hr>
